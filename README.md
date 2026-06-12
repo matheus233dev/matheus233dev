@@ -1,29 +1,53 @@
-<img width="1500" height="300" alt="github-header-banner (5)" src="https://github.com/user-attachments/assets/10e641a5-049e-4eac-b753-0d62f235db28" />
+<h1 align="center">👨‍💻 matheus lucas santos lima </h1>
 
-<br>
-<br>
+<p align="center">
+  Desenvolvedor em formação • Interesse em Full Stack
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+my+name+is+mathues;I+am+19+years+old.;I'm+starting+out+in+the+programming+field.)](https://git.io/typing-svg)
+---
 
-<br>
-<br>
+## 🚀 Sobre mim
+
+Desenvolvedor em formação focado em evolução constante.
+
+Atualmente estudando linguagem C e aprofundando conhecimentos em JavaScript, HTML e CSS, com interesse em desenvolvimento Full Stack e criação de projetos práticos.
+
+---
+
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheus233dev&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
-  
-</div>
 
-
-<div aling="center" >
-  
-<img
-sfc="https://ssr-contributions-svg.vercel.app/_/matheus233dev?chart=3dbar&gap=0.6&scale=2&flatten=2&gradient=false&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=mess&animation_duration=1&animation_loop=true&weeks=30&theme=blue&dark=true"/>
+<img src="https://skillicons.dev/icons?i=c,js,html,css"/>
 
 </div>
 
+---
 
+## 📊 Estatísticas
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir na linguagem C
+- Aprender desenvolvimento Full Stack
+- Criar projetos próprios
+- Entrar na área de tecnologia
+
+---
+
+<p align="center">
+  "Construindo meu futuro uma linha de código por vez."
+</p>
   
 
 
